@@ -1,3 +1,3 @@
 # Demo
 
-file from practise
+file from practise JS
